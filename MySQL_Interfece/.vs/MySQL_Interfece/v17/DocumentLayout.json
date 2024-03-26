@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\mysql_interfece\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|solutionrelative:mysql_interfece\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0438\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\mysql_interfece\\mysql_interfece\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|solutionrelative:mysql_interfece\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0438\u0441\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\mysql_interfece\\mysql_interfece\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|solutionrelative:mysql_interfece\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\mysql_interfece\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E13466D-0D45-4E5B-A102-D8CFFAD74059}|MySQL_Interfece\\MySQL_Interfece.csproj|solutionrelative:mysql_interfece\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\DataBase.cs",
+              "RelativeDocumentMoniker": "MySQL_Interfece\\DataBase.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\DataBase.cs",
+              "RelativeToolTip": "MySQL_Interfece\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:33:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\Form1.cs",
+              "RelativeDocumentMoniker": "MySQL_Interfece\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\Form1.cs",
+              "RelativeToolTip": "MySQL_Interfece\\Form1.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAEwAwBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:11:45.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\Form1.cs",
+              "RelativeDocumentMoniker": "MySQL_Interfece\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MySQL_Interfece\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:11:20.937Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\Form2.cs",
+              "RelativeDocumentMoniker": "MySQL_Interfece\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\8 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0418\u0421\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\MySQL_Interfece\\MySQL_Interfece\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MySQL_Interfece\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:11:17.493Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

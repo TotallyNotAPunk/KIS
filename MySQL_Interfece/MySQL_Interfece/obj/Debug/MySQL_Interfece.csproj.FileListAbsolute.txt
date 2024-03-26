@@ -1,0 +1,35 @@
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySQL_Interfece.exe.config
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySQL_Interfece.exe
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySQL_Interfece.pdb
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySql.Data.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySql.Data.xml
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.Form1.resources
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.Properties.Resources.resources
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.csproj.GenerateResource.cache
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.csproj.CoreCompileInputs.cache
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.exe
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.pdb
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.csproj.AssemblyReference.cache
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Memory.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Buffers.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\ДОЛГИ\Курсовая Горохов\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_In.1D4288AC.Up2Date
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySQL_Interfece.exe.config
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySQL_Interfece.exe
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\bin\Debug\MySQL_Interfece.pdb
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Memory.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\bin\Debug\System.Buffers.dll
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.csproj.AssemblyReference.cache
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.Form1.resources
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.Form2.resources
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.Properties.Resources.resources
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.csproj.GenerateResource.cache
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.csproj.CoreCompileInputs.cache
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.csproj.CopyComplete
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.exe
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.pdb
+C:\Users\Данил\OneDrive\Рабочий стол\Учеба\4 курс\8 семестр\КИС\Курсовая\MySQL_Interfece\MySQL_Interfece\obj\Debug\MySQL_Interfece.Form3.resources

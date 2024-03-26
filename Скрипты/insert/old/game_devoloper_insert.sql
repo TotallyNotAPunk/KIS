@@ -1,0 +1,34 @@
+use kyrsovaya_v0;
+
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('1', '1');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('2', '2');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('3', '3');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('4', '4');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('5', '5');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('6', '6');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('7', '7');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('8', '8');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('9', '9');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('10', '10');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('11', '11');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('12', '12');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('13', '13');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('14', '14');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('15', '15');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('1', '16');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('2', '17');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('3', '18');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('4', '19');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('5', '20');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('16', '21');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('17', '22');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('18', '23');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('19', '24');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('20', '25');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('21', '26');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('22', '27');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('23', '28');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('24', '29');
+INSERT INTO `kyrsovaya_v0`.`game_deviloper` (`deviloper_id`, `game_game_id`) VALUES ('25', '30');
+
+select * from game_deviloper;
