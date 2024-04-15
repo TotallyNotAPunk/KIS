@@ -1,4 +1,4 @@
-use kyrsovaya_v0;
+use kyrsovaya_kis;
 
 CREATE VIEW shopping_cart_summary AS
 SELECT

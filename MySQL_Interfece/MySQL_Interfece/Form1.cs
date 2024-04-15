@@ -13,10 +13,12 @@ namespace MySQL_Interfece
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        User user;
+        public Form1(User user)
         {
             InitializeComponent();
             getShoppingCartSummary();
+            this.user = user;
         }
         List<Game> FindedGames = new List<Game>();
         List<Product> ShoppingCart = new List<Product>();
@@ -143,7 +145,7 @@ namespace MySQL_Interfece
             MySqlCommand command;
             if (radioButtonTitel.Checked) {
                 command = new MySqlCommand("SELECT * FROM `game_summary` WHERE `titel` = @Titel", db.getConnection());
-                command.Parameters.Add("@Titel", MySqlDbType.VarChar).Value =search;
+                command.Parameters.Add("@Titel", MySqlDbType.VarChar).Value = search;
 
                 adapter.SelectCommand = command;
                 adapter.Fill(table);
@@ -217,6 +219,12 @@ namespace MySQL_Interfece
             }
             else if (radioButtonCost.Checked)
             {
+                try { Convert.ToInt32(search); }
+                catch 
+                { 
+                    MessageBox.Show("Цена должна быть числом");
+                    return;
+                }
                 command = new MySqlCommand("SELECT * FROM `game_summary` WHERE `cost` < @Cost;", db.getConnection());
                 command.Parameters.Add("@Cost", MySqlDbType.Int32).Value = search;
 
@@ -264,8 +272,10 @@ namespace MySQL_Interfece
         {
             int game_id = Convert.ToInt32(FindedGames[GameMarker].Game_Id);
             DataBase db = new DataBase();
-            MySqlCommand command = new MySqlCommand("INSERT INTO `kyrsovaya_kis`.`shopping_cart` (`game_game_id`, `bill_bill_id`) VALUES (@Game_Id, '1')", db.getConnection());
+            MySqlCommand command = new MySqlCommand("INSERT INTO `kyrsovaya_kis`.`shopping_cart` (`game_game_id`, `bill_bill_id`, `user_user_id`) VALUES (@Game_Id, @Bill_Id, @User_Id)", db.getConnection());
             command.Parameters.Add("@Game_Id", MySqlDbType.Int32).Value = game_id;
+            command.Parameters.Add("@Bill_Id", MySqlDbType.Int32).Value = user.User_ID;
+            command.Parameters.Add("@User_Id", MySqlDbType.Int32).Value = user.User_ID;
             db.openConnection();
             if (command.ExecuteNonQuery() == 1)
             { MessageBox.Show("Игра успешно добавленна в корзину"); }
@@ -305,10 +315,17 @@ namespace MySQL_Interfece
             if (command.ExecuteNonQuery() == 1)
             { MessageBox.Show("Игра успешно удалена в корзину"); }
             else
-            { MessageBox.Show("Упс! При удалении из корзину возникла ошибка"); }
+            { MessageBox.Show("Упс! При удалении из корзины возникла ошибка"); }
             db.closeConnection();
             getShoppingCartSummary();
             UpdateProductInterfece();
+        }
+
+        private void buttonExit_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 form2 = new Form2();
+            form2.Show();
         }
     }
 }

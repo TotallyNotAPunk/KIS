@@ -75,6 +75,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.labelTitelGame = new System.Windows.Forms.Label();
             this.label98 = new System.Windows.Forms.Label();
+            this.buttonExit = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel5.SuspendLayout();
@@ -130,7 +131,7 @@
             this.labelAllProductCost.AutoSize = true;
             this.labelAllProductCost.Location = new System.Drawing.Point(137, 221);
             this.labelAllProductCost.Name = "labelAllProductCost";
-            this.labelAllProductCost.Size = new System.Drawing.Size(23, 17);
+            this.labelAllProductCost.Size = new System.Drawing.Size(19, 16);
             this.labelAllProductCost.TabIndex = 24;
             this.labelAllProductCost.Text = "---";
             // 
@@ -139,7 +140,7 @@
             this.labelProductList.AutoSize = true;
             this.labelProductList.Location = new System.Drawing.Point(126, 257);
             this.labelProductList.Name = "labelProductList";
-            this.labelProductList.Size = new System.Drawing.Size(28, 17);
+            this.labelProductList.Size = new System.Drawing.Size(25, 16);
             this.labelProductList.TabIndex = 18;
             this.labelProductList.Text = "0/0";
             // 
@@ -148,7 +149,7 @@
             this.label18.AutoSize = true;
             this.label18.Location = new System.Drawing.Point(6, 221);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(130, 17);
+            this.label18.Size = new System.Drawing.Size(123, 16);
             this.label18.TabIndex = 18;
             this.label18.Text = "Общая стоимость:";
             // 
@@ -191,7 +192,7 @@
             this.label23.AutoSize = true;
             this.label23.Location = new System.Drawing.Point(8, 52);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(76, 17);
+            this.label23.Size = new System.Drawing.Size(76, 16);
             this.label23.TabIndex = 23;
             this.label23.Text = "Название:";
             // 
@@ -200,7 +201,7 @@
             this.labelWebStoreProduct.AutoSize = true;
             this.labelWebStoreProduct.Location = new System.Drawing.Point(79, 26);
             this.labelWebStoreProduct.Name = "labelWebStoreProduct";
-            this.labelWebStoreProduct.Size = new System.Drawing.Size(23, 17);
+            this.labelWebStoreProduct.Size = new System.Drawing.Size(19, 16);
             this.labelWebStoreProduct.TabIndex = 22;
             this.labelWebStoreProduct.Text = "---";
             // 
@@ -209,7 +210,7 @@
             this.labelCostProduct.AutoSize = true;
             this.labelCostProduct.Location = new System.Drawing.Point(55, 161);
             this.labelCostProduct.Name = "labelCostProduct";
-            this.labelCostProduct.Size = new System.Drawing.Size(23, 17);
+            this.labelCostProduct.Size = new System.Drawing.Size(19, 16);
             this.labelCostProduct.TabIndex = 21;
             this.labelCostProduct.Text = "---";
             // 
@@ -218,7 +219,7 @@
             this.label17.AutoSize = true;
             this.label17.Location = new System.Drawing.Point(103, 0);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(48, 17);
+            this.label17.Size = new System.Drawing.Size(48, 16);
             this.label17.TabIndex = 17;
             this.label17.Text = "Товар";
             // 
@@ -227,7 +228,7 @@
             this.label15.AutoSize = true;
             this.label15.Location = new System.Drawing.Point(2, 161);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(47, 17);
+            this.label15.Size = new System.Drawing.Size(43, 16);
             this.label15.TabIndex = 16;
             this.label15.Text = "Цена:";
             // 
@@ -244,7 +245,7 @@
             this.label13.AutoSize = true;
             this.label13.Location = new System.Drawing.Point(3, 26);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(71, 17);
+            this.label13.Size = new System.Drawing.Size(70, 16);
             this.label13.TabIndex = 14;
             this.label13.Text = "Магазин: ";
             // 
@@ -253,7 +254,7 @@
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(70, 2);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(121, 17);
+            this.label12.Size = new System.Drawing.Size(120, 16);
             this.label12.TabIndex = 3;
             this.label12.Text = "Корзина покупок";
             // 
@@ -278,7 +279,7 @@
             this.radioButtonCost.AutoSize = true;
             this.radioButtonCost.Location = new System.Drawing.Point(6, 173);
             this.radioButtonCost.Name = "radioButtonCost";
-            this.radioButtonCost.Size = new System.Drawing.Size(105, 21);
+            this.radioButtonCost.Size = new System.Drawing.Size(100, 20);
             this.radioButtonCost.TabIndex = 11;
             this.radioButtonCost.TabStop = true;
             this.radioButtonCost.Text = "Цена ниже ";
@@ -289,7 +290,7 @@
             this.radioButtonWebStore.AutoSize = true;
             this.radioButtonWebStore.Location = new System.Drawing.Point(6, 147);
             this.radioButtonWebStore.Name = "radioButtonWebStore";
-            this.radioButtonWebStore.Size = new System.Drawing.Size(84, 21);
+            this.radioButtonWebStore.Size = new System.Drawing.Size(85, 20);
             this.radioButtonWebStore.TabIndex = 10;
             this.radioButtonWebStore.TabStop = true;
             this.radioButtonWebStore.Text = "Магазин";
@@ -310,7 +311,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(3, 37);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(68, 17);
+            this.label1.Size = new System.Drawing.Size(66, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "Поиск по";
             // 
@@ -319,7 +320,7 @@
             this.radioButtonTitel.AutoSize = true;
             this.radioButtonTitel.Location = new System.Drawing.Point(6, 66);
             this.radioButtonTitel.Name = "radioButtonTitel";
-            this.radioButtonTitel.Size = new System.Drawing.Size(93, 21);
+            this.radioButtonTitel.Size = new System.Drawing.Size(94, 20);
             this.radioButtonTitel.TabIndex = 3;
             this.radioButtonTitel.TabStop = true;
             this.radioButtonTitel.Text = "Название";
@@ -330,7 +331,7 @@
             this.radioButtonDeveloper.AutoSize = true;
             this.radioButtonDeveloper.Location = new System.Drawing.Point(6, 93);
             this.radioButtonDeveloper.Name = "radioButtonDeveloper";
-            this.radioButtonDeveloper.Size = new System.Drawing.Size(115, 21);
+            this.radioButtonDeveloper.Size = new System.Drawing.Size(115, 20);
             this.radioButtonDeveloper.TabIndex = 4;
             this.radioButtonDeveloper.TabStop = true;
             this.radioButtonDeveloper.Text = "Разработчик";
@@ -341,7 +342,7 @@
             this.radioButtonPublisher.AutoSize = true;
             this.radioButtonPublisher.Location = new System.Drawing.Point(6, 120);
             this.radioButtonPublisher.Name = "radioButtonPublisher";
-            this.radioButtonPublisher.Size = new System.Drawing.Size(92, 21);
+            this.radioButtonPublisher.Size = new System.Drawing.Size(92, 20);
             this.radioButtonPublisher.TabIndex = 5;
             this.radioButtonPublisher.TabStop = true;
             this.radioButtonPublisher.Text = "Издатель";
@@ -390,7 +391,7 @@
             this.labelWebStoreGame.AutoSize = true;
             this.labelWebStoreGame.Location = new System.Drawing.Point(83, 9);
             this.labelWebStoreGame.Name = "labelWebStoreGame";
-            this.labelWebStoreGame.Size = new System.Drawing.Size(23, 17);
+            this.labelWebStoreGame.Size = new System.Drawing.Size(19, 16);
             this.labelWebStoreGame.TabIndex = 24;
             this.labelWebStoreGame.Text = "---";
             // 
@@ -399,7 +400,7 @@
             this.labelReleaseYearGame.AutoSize = true;
             this.labelReleaseYearGame.Location = new System.Drawing.Point(113, 413);
             this.labelReleaseYearGame.Name = "labelReleaseYearGame";
-            this.labelReleaseYearGame.Size = new System.Drawing.Size(23, 17);
+            this.labelReleaseYearGame.Size = new System.Drawing.Size(19, 16);
             this.labelReleaseYearGame.TabIndex = 20;
             this.labelReleaseYearGame.Text = "---";
             // 
@@ -408,7 +409,7 @@
             this.labelPublisherGame.AutoSize = true;
             this.labelPublisherGame.Location = new System.Drawing.Point(94, 387);
             this.labelPublisherGame.Name = "labelPublisherGame";
-            this.labelPublisherGame.Size = new System.Drawing.Size(23, 17);
+            this.labelPublisherGame.Size = new System.Drawing.Size(19, 16);
             this.labelPublisherGame.TabIndex = 19;
             this.labelPublisherGame.Text = "---";
             // 
@@ -417,7 +418,7 @@
             this.labelDeveloperGame.AutoSize = true;
             this.labelDeveloperGame.Location = new System.Drawing.Point(117, 357);
             this.labelDeveloperGame.Name = "labelDeveloperGame";
-            this.labelDeveloperGame.Size = new System.Drawing.Size(23, 17);
+            this.labelDeveloperGame.Size = new System.Drawing.Size(19, 16);
             this.labelDeveloperGame.TabIndex = 18;
             this.labelDeveloperGame.Text = "---";
             // 
@@ -426,7 +427,7 @@
             this.labelReviewsGame.AutoSize = true;
             this.labelReviewsGame.Location = new System.Drawing.Point(83, 329);
             this.labelReviewsGame.Name = "labelReviewsGame";
-            this.labelReviewsGame.Size = new System.Drawing.Size(23, 17);
+            this.labelReviewsGame.Size = new System.Drawing.Size(19, 16);
             this.labelReviewsGame.TabIndex = 17;
             this.labelReviewsGame.Text = "---";
             // 
@@ -435,7 +436,7 @@
             this.labelCostGame.AutoSize = true;
             this.labelCostGame.Location = new System.Drawing.Point(66, 303);
             this.labelCostGame.Name = "labelCostGame";
-            this.labelCostGame.Size = new System.Drawing.Size(23, 17);
+            this.labelCostGame.Size = new System.Drawing.Size(19, 16);
             this.labelCostGame.TabIndex = 16;
             this.labelCostGame.Text = "---";
             // 
@@ -444,7 +445,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(13, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(71, 17);
+            this.label3.Size = new System.Drawing.Size(70, 16);
             this.label3.TabIndex = 15;
             this.label3.Text = "Магазин: ";
             // 
@@ -453,7 +454,7 @@
             this.labelGameList.AutoSize = true;
             this.labelGameList.Location = new System.Drawing.Point(141, 478);
             this.labelGameList.Name = "labelGameList";
-            this.labelGameList.Size = new System.Drawing.Size(28, 17);
+            this.labelGameList.Size = new System.Drawing.Size(25, 16);
             this.labelGameList.TabIndex = 13;
             this.labelGameList.Text = "0/0";
             // 
@@ -462,7 +463,7 @@
             this.label10.AutoSize = true;
             this.label10.Location = new System.Drawing.Point(13, 413);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(94, 17);
+            this.label10.Size = new System.Drawing.Size(91, 16);
             this.label10.TabIndex = 12;
             this.label10.Text = "Год выпуска:";
             // 
@@ -491,7 +492,7 @@
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(13, 387);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(75, 17);
+            this.label9.Size = new System.Drawing.Size(74, 16);
             this.label9.TabIndex = 10;
             this.label9.Text = "Издатель:";
             // 
@@ -500,7 +501,7 @@
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(13, 357);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(98, 17);
+            this.label8.Size = new System.Drawing.Size(97, 16);
             this.label8.TabIndex = 9;
             this.label8.Text = "Разработчик:";
             // 
@@ -509,7 +510,7 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(13, 329);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(64, 17);
+            this.label7.Size = new System.Drawing.Size(61, 16);
             this.label7.TabIndex = 8;
             this.label7.Text = "Отзывы:";
             // 
@@ -518,7 +519,7 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(13, 303);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(47, 17);
+            this.label6.Size = new System.Drawing.Size(43, 16);
             this.label6.TabIndex = 7;
             this.label6.Text = "Цена:";
             // 
@@ -535,7 +536,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(13, 136);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(74, 17);
+            this.label4.Size = new System.Drawing.Size(72, 16);
             this.label4.TabIndex = 5;
             this.label4.Text = "Описание";
             // 
@@ -552,15 +553,26 @@
             this.label98.AutoSize = true;
             this.label98.Location = new System.Drawing.Point(13, 51);
             this.label98.Name = "label98";
-            this.label98.Size = new System.Drawing.Size(72, 17);
+            this.label98.Size = new System.Drawing.Size(73, 16);
             this.label98.TabIndex = 3;
             this.label98.Text = "Название";
+            // 
+            // buttonExit
+            // 
+            this.buttonExit.Location = new System.Drawing.Point(273, 552);
+            this.buttonExit.Name = "buttonExit";
+            this.buttonExit.Size = new System.Drawing.Size(75, 23);
+            this.buttonExit.TabIndex = 4;
+            this.buttonExit.Text = "Выйти";
+            this.buttonExit.UseVisualStyleBackColor = true;
+            this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(650, 549);
+            this.ClientSize = new System.Drawing.Size(650, 586);
+            this.Controls.Add(this.buttonExit);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
@@ -625,6 +637,7 @@
         private System.Windows.Forms.Button buttonRemoveProduct;
         private System.Windows.Forms.Button buttonAddProduct;
         private System.Windows.Forms.RadioButton radioButtonCost;
+        private System.Windows.Forms.Button buttonExit;
     }
 }
 

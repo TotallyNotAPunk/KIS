@@ -9,7 +9,6 @@ namespace MySQL_Interfece
     class Product
     {
         private int product_id;
-        private int game_id;
         private string web_store;
         private string titel;
         private string cost;
